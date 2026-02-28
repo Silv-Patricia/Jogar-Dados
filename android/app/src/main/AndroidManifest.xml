@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="Dadoos"
+        android:label="2Dadoos"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
