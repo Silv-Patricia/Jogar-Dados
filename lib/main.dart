@@ -8,8 +8,7 @@ void main() {
         backgroundColor: Colors.teal.shade700,
         appBar: AppBar(
           title: Center(
-            child: Text('2Dadoos', style: TextStyle(color: Colors.white70),
-            ),
+            child: Text('2Dadoos', style: TextStyle(color: Colors.white70)),
           ),
           backgroundColor: Colors.teal.shade900,
         ),
